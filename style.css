@@ -75,7 +75,7 @@ input[type=checkbox]{
     position: relative;
     cursor: pointer;
     width: 100%;
-    left: -106px;
+    transform: translateX(-105px);
 }
 .remember{
     position: relative;
